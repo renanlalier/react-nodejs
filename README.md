@@ -18,9 +18,9 @@ Para executar o projeto é requerido a instalação do NodeJS. Para detalhes sob
 
 Para obter o projeto basta clonar o repositório e executar os seguintes comandos:
 
-- npm install;
+- npm install:
   Comando responsável pela instalação de todas as dependências do projeto (constante no arquivo package.json).
   
-- npm start;
+- npm start:
   Comando responsável por executar webpack e iniciar servidor node. A aplicação poderá ser acessada através do endereço http://localhost:3000/book
 
