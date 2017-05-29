@@ -1,7 +1,6 @@
 "use strict"
 import React, {Component} from 'react';
 import {render} from 'react-dom';
-import { createHashHistory } from 'history'
 
 import ApiService from './apiService';
 import CatalogBooks from './catalog-books';
